@@ -6,9 +6,9 @@
 
 # ghz
 
-[![Release](https://img.shields.io/github/release/bojand/ghz.svg?style=flat-square)](https://github.com/bojand/ghz/releases/latest) 
+[![Release](https://img.shields.io/github/release/bojand/ghz.svg?style=flat-square)](https://github.com/tab1293/ghz/releases/latest)
 [![build status](https://img.shields.io/travis/bojand/ghz/master.svg?style=flat-square)](https://travis-ci.org/bojand/ghz)
-[![Go Report Card](https://goreportcard.com/badge/github.com/bojand/ghz?style=flat-square)](https://goreportcard.com/report/github.com/bojand/ghz)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tab1293/ghz?style=flat-square)](https://goreportcard.com/report/github.com/tab1293/ghz)
 [![License](https://img.shields.io/github/license/bojand/ghz.svg?style=flat-square)](https://raw.githubusercontent.com/bojand/ghz/master/LICENSE)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?style=flat-square)](https://www.paypal.me/bojandj)
 [![Buy me a coffee](https://img.shields.io/badge/buy%20me-a%20coffee-orange.svg?style=flat-square)](https://www.buymeacoffee.com/bojand)
@@ -17,7 +17,7 @@ Simple [gRPC](http://grpc.io/) benchmarking and load testing tool inspired by [h
 
 ## Install
 
-Download a prebuilt executable binary from the [releases page](https://github.com/bojand/ghz/releases).
+Download a prebuilt executable binary from the [releases page](https://github.com/tab1293/ghz/releases).
 
 ## Usage
 

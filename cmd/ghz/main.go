@@ -9,11 +9,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bojand/ghz"
-	"github.com/bojand/ghz/config"
-	"github.com/bojand/ghz/printer"
-	"github.com/bojand/ghz/protodesc"
 	"github.com/jhump/protoreflect/desc"
+	"github.com/tab1293/ghz"
+	"github.com/tab1293/ghz/config"
+	"github.com/tab1293/ghz/printer"
+	"github.com/tab1293/ghz/protodesc"
 )
 
 var (

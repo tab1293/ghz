@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bojand/ghz/internal/helloworld"
 	"github.com/stretchr/testify/assert"
+	"github.com/tab1293/ghz/internal/helloworld"
 	"google.golang.org/grpc"
 )
 

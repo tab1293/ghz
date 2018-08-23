@@ -3,8 +3,8 @@ package ghz
 import (
 	"testing"
 
-	"github.com/bojand/ghz/protodesc"
 	"github.com/stretchr/testify/assert"
+	"github.com/tab1293/ghz/protodesc"
 )
 
 func TestCallTemplateData_New(t *testing.T) {

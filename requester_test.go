@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/bojand/ghz/internal/helloworld"
-	"github.com/bojand/ghz/protodesc"
+	"github.com/tab1293/ghz/internal/helloworld"
+	"github.com/tab1293/ghz/protodesc"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 )
